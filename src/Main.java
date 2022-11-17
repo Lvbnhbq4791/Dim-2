@@ -5,7 +5,7 @@ public class Main {
 //        System.out.println("  "+"Привет Вася");
 //        System.out.println("   "+"Привет Вася");
 //        System.out.println("    "+"Привет Вася");
-        int g = 4 % 4;
+        int g = 4 % 3;
         int t = 2/3*2;
         int u = t + g;
 
